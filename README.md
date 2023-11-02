@@ -17,4 +17,4 @@
 - ⚡ Fun fact **There are over 700 programing langauge 😲**
 
 <h3 align="left">Languages and Tools:</h3>
-Python, OCaml, JavaScript, Java, React, Nodejs, Pytorch, TensorFlow, Pandas.
+<p>Python, OCaml, JavaScript, Java, React, Nodejs, Pytorch, TensorFlow, Pandas.</p>
