@@ -1,8 +1,6 @@
 <!--
 **KidusLegesse/KidusLegesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img width="1000px" height="400px" src="https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&q=80&w=2936&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
-
 <h1 align="center">Hi 👋, I'm Kidus.</h1>
 <h3 align="center">I am a student at Cornell University 🐻 studying computer science 💻. Writing software is a passion of mine that I aim to utilize to make a positive contribution to my community and the world 🌎.</h3>
 <img align="right" width="300px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" />
