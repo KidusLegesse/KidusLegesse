@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Functional Programming, Backend Web development, and Machine Learning**
 
-- 👨‍💻 All of my projects are available on this [Github account](https://github.com/KidusLegesse)
+- 👨‍💻 All of my projects are available on this [Github account](https://github.com/KidusLegesse?tab=repositories)
 
 - 💬 Some of my intrests in comupter Science are **Artificial Intelligence 🧠, Game Development 🎮, and Cryptography 🔐** 
 
